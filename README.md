@@ -9,3 +9,6 @@ python RL4SRD.py query_permutation.json query_representation.dat document_repres
 
 ### 训练结果
 实验结果存储在folder中
+
+### 文献
+Long Xia, Jun Xu, Yanyan Lan, Jiafeng Guo, Wei Zeng, and Xueqi Cheng. Adapting Markov Decision Process for Search Result Diversification. Proceedings of the 40th annual international ACM SIGIR conference on Research and development in information retrieval (SIGIR '17), Shinjuku, Tokyo, Japan, pp. 535-544, 2017. 
